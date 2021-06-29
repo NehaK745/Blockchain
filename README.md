@@ -1,2 +1,2 @@
-# blockhain
+# Blockchain
 Blockchain in javascript
